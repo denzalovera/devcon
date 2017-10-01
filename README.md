@@ -1,20 +1,20 @@
 09/30/17
 
-#Devcon
+# Devcon
 ======
-    ##BigData
+    ## BigData
     ------
         * BigDatahaifa@devcon.ph
         * @haifacarina
 
 
-    ##fullstack - Symfony
+    ## fullstack - Symfony
     ------
     1. when to use Symfony
         * general needs
         * specific functions
 
-    ###question:
+    ### question:
     * what are the current needs of my proj.
     * what skills do i need to use the framework
     * is the framework scalabl* 
@@ -22,7 +22,7 @@
     * MVC
     * Unit Teting
 
-##ROOTCON
+## ROOTCON
 ------
     > dev to hacker
     > @semprix
@@ -72,7 +72,7 @@
             
             @rootcon
 
-    ##ai
+    ## ai
     ------
         > ai
         > machine learning
@@ -99,7 +99,7 @@
             > python
             > tensorflow
     
-##rootcon bug hunting 101: hacking sec. issues for fun and profit
+## ROOTCON bug hunting 101: hacking sec. issues for fun and profit
     > @Bugcrowd, twitter: @shipcod3
     > ROOTCON Goon
     > metasploit
@@ -128,7 +128,7 @@
 
         pawncast.io
         
-##wordpress
+## wordpress
 ------
     > wordpress workflow - may 27, 2003
     > 43M+ downloads
@@ -160,13 +160,13 @@
             > www.meetup.com/WordPress-Iloilo
             > www.fb.com/WordPressIloilo
 
-    ##Java - Vaadin
+    ## Java - Vaadin
     ------
        > book of vaadin
        > vaadin philippines - vaadin training module
            > netbeans and mysql
 
-    ##iot
+    ## iot
     ------
         > linkedin.com/in/joemar-matulac-887a1312
         > safesat.com.ph
