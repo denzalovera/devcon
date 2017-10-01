@@ -72,32 +72,32 @@ ROOTCON
             
             @rootcon
 
-    ai
-    ------
-        > ai
-        > machine learning
-        > deep learning
-        tools:
-            > ionic
-            > android studio
-            > phoneGap
-            > swift
-        internet of things ?
-        Language:
-            > text to Language
-            > messenger bot
-            > translation
-            > google and facebook translate
-        search:
-            > google search, ranking
-        vision:
-            > 
-        apps using ai:
-            > spotify, netflix, facebook
-        tools:
-            > c++
-            > python
-            > tensorflow
+ai
+------
+    > ai
+    > machine learning
+    > deep learning
+    tools:
+        > ionic
+        > android studio
+        > phoneGap
+        > swift
+    internet of things ?
+    Language:
+        > text to Language
+        > messenger bot
+        > translation
+        > google and facebook translate
+    search:
+        > google search, ranking
+    vision:
+        > 
+    apps using ai:
+        > spotify, netflix, facebook
+    tools:
+        > c++
+        > python
+        > tensorflow
     
 ROOTCON bug hunting 101: hacking sec. issues for fun and profit
 ------
@@ -161,22 +161,21 @@ wordpress
             > www.meetup.com/WordPress-Iloilo
             > www.fb.com/WordPressIloilo
 
-    Java - Vaadin
-    ------
-       > book of vaadin
-       > vaadin philippines - vaadin training module
-           > netbeans and mysql
+Java - Vaadin
+------
+    > book of vaadin
+    > vaadin philippines - vaadin training module
+        > netbeans and mysql
 
-    iot
-    ------
-        > linkedin.com/in/joemar-matulac-887a1312
-        > safesat.com.ph
-
-        > IX8Y07
-            > Wave 6LoWPAN Thread Bluetooth WiFi Celluar NFC Neul LoR 
-            
-        creativity. innovation. humanity
-            > invent, build, optimise, operate, innovate, enjoy
+iot
+------
+    > linkedin.com/in/joemar-matulac-887a1312
+    > safesat.com.ph
+    > IX8Y07
+        > Wave 6LoWPAN Thread Bluetooth WiFi Celluar NFCNeul LoR 
+        
+    creativity. innovation. humanity
+        > invent, build, optimise, operate, innovate, enjoy
     
     :panel of questions:
         > n/a
