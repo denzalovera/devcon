@@ -14,38 +14,38 @@
         * general needs
         * specific functions
 
-    question:
-    > what are the current needs of my proj.
-    > what skills do i need to use the framework
-    > is the framework scalable
+    ###question:
+    * what are the current needs of my proj.
+    * what skills do i need to use the framework
+    * is the framework scalabl* 
+    * learn best practices.
+    * MVC
+    * Unit Teting
 
-    > learn best practices.
-    > MVC
-    > Unit Teting
-
-:rootcon:
+##ROOTCON
+------
     > dev to hacker
-    >@semprix
+    > @semprix
 
-    ethical hacker - pentester
-        > permission
-        > respect
-        > report (dont leave backdoor)
-        > disclosure
-    types of hackers:
-        > whitehat - infosec, ethical
-        > blackhat - known as cracker, has malicious intent
-        > grayhat - not a pentester, but hacks w/o permission
-        > elit hacker - leetspeak, 31337. well respected hackersS
-        > script kiddie - amatuer or non expert hacker, wannabe hacker
+    * ethical hacker - pentester
+        ** permission
+        ** respect
+        ** report (dont leave backdoor)
+        ** disclosure
+    * types of hackers:
+        ** whitehat - infosec, ethical
+        ** blackhat - known as cracker, has malicious intent
+        ** grayhat - not a pentester, but hacks w/o permission
+        ** elit hacker - leetspeak, 31337. well respected hackers
+        ** script kiddie - amatuer or non expert hacker, wannabe hacker
 
-    infosec career:
-    salary:
-        > 370,000 median - software developer
-        > 273,000 median - sysad
-        > 480,000 median - info sec
+    * infosec career:
+        salary:
+            > 370,000 median - software developer
+            > 273,000 median - sysad
+            > 480,000 median - info sec
     
-    starting your infosec carreer:
+    * starting your infosec carreer:
         > don't be a douche
         education:
             > networking - tcp/ip system administration, programming
@@ -72,7 +72,8 @@
             
             @rootcon
 
-    :ai:
+    ##ai
+    ------
         > ai
         > machine learning
         > deep learning
@@ -98,19 +99,19 @@
             > python
             > tensorflow
     
-:rootcon: bug hunting 101: hacking sec. issues for fun and profit
+##rootcon bug hunting 101: hacking sec. issues for fun and profit
     > @Bugcrowd, twitter: @shipcod3
     > ROOTCON Goon
     > metasploit
 
-    Bug Bounty
+    1. Bug Bounty
         > sec researcher
         > iot
 
-    bug crowd:
+    2. bug crowd:
         > report bugs etc.
         > https://bugcrowd.com/programs - bug hunting (security vul.)
-    bug hunting methodologies
+    3. bug hunting methodologies
         JASON HADDIX
         haddix/tbhm
 
@@ -127,7 +128,8 @@
 
         pawncast.io
         
-:wordpress:
+##wordpress
+------
     > wordpress workflow - may 27, 2003
     > 43M+ downloads
     > powers 28% of the websites on the internet
@@ -138,13 +140,13 @@
         3. be verbose - comment and document code.
 
     wordpress vvv workflow:
-        > vbox
-        > vagrant and vagrant plugin
-            > vagrant host updater
-            > vagrant-trigger
-        > vvv - varying vagrant vagrants
-        > vvv base and vvv dashboard
-        > vagrant up!
+        * vbox
+        * vagrant and vagrant plugin
+            ** vagrant host updater
+            ** vagrant-trigger
+        * vvv - varying vagrant vagrants
+        * vvv base and vvv dashboard
+        * vagrant up!
     
     wordpress site development timeline
         > create a checklist
@@ -158,12 +160,14 @@
             > www.meetup.com/WordPress-Iloilo
             > www.fb.com/WordPressIloilo
 
-        :java:
-            > book of vaadin
-            > vaadin philippines - vaadin training module
-                > netbeans and mysql
+    ##Java - Vaadin
+    ------
+       > book of vaadin
+       > vaadin philippines - vaadin training module
+           > netbeans and mysql
 
-    :iot:
+    ##iot
+    ------
         > linkedin.com/in/joemar-matulac-887a1312
         > safesat.com.ph
 
@@ -174,4 +178,4 @@
             > invent, build, optimise, operate, innovate, enjoy
     
     :panel of questions:
-        > 
+        > n/a
