@@ -24,16 +24,16 @@ ROOTCON
 **dev to hacker**
     @semprix
 * ethical hacker - pentester
-    ** permission
-    ** respect
-    ** report (dont leave backdoor)
-    ** disclosure
+** permission
+** respect
+** report (dont leave backdoor)
+** disclosure
 * types of hackers:
-    ** whitehat - infosec, ethical
-    ** blackhat - known as cracker, has malicious intent
-    ** grayhat - not a pentester, but hacks w/o permission
-    ** elit hacker - leetspeak, 31337. well respected hackers
-    ** script kiddie - amatuer or non expert hacker, wannabe hacker
+** whitehat - infosec, ethical
+** blackhat - known as cracker, has malicious intent
+** grayhat - not a pentester, but hacks w/o permission
+** elit hacker - leetspeak, 31337. well respected hackers
+** script kiddie - amatuer or non expert hacker, wannabe hacker
 * infosec career:
     salary:
         > 370,000 median - software developer
@@ -42,16 +42,16 @@ ROOTCON
 
 * starting your infosec carreer:
     > don't be a douche
-    education:
+    >education:
         > networking - tcp/ip system administration, programming
-    backgrounds:
+    > backgrounds:
         > systems administration
         > networking
         > Development
-    build your own lab:
+    > build your own lab:
         > vmware - server
         > vps systems
-    presence in a community:
+    > presence in a community:
         > join a sec meet-up
         > find a mentor
         > contribute to the community
